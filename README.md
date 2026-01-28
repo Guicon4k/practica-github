@@ -12,7 +12,7 @@ Este cambio se realiza desde una rama para practicar PRs.
 
 
 
-\## Conflictos
-
+## Conflictos
 Texto agregado desde la rama A.
+Texto agregado desde la rama B.
 
