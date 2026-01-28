@@ -10,3 +10,9 @@ Practicando GitHub y control de versiones.
 
 Este cambio se realiza desde una rama para practicar PRs.
 
+
+
+\## Conflictos
+
+Texto agregado desde la rama A.
+
