@@ -6,7 +6,7 @@ Repositorio para practicar Git y GitHub.
 
 Practicando GitHub y control de versiones.
 
-\## Objetivo
+\## Pull Request de práctica
 
-Aprender Git y GitHub con ejercicios prácticos
+Este cambio se realiza desde una rama para practicar PRs.
 
